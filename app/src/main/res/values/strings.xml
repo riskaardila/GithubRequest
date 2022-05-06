@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GitHubRequest</string>
+    <string name="info_github_user">Info Github User</string>
+    <string name="get_info">Get Info</string>
+    <string name="username">Username</string>
+</resources>
